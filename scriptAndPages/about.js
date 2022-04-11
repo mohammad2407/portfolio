@@ -5,7 +5,7 @@ about.innerHTML = `
             <h2 class="title"> ABOUT </h2>
             <div class="about-content">
                 <div class="column left">
-                    <img src="images/resumeprofile2.jpg" alt=""
+                    <img src="images/resumeprofile2.png" alt=""
                         style="border-radius: 300px; background-color: rgba(146, 139, 139, 0.068);">
                 </div>
                 <div class="column right">
