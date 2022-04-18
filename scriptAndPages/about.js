@@ -9,7 +9,7 @@ about.innerHTML = `
                         style="border-radius: 300px; background-color: rgba(146, 139, 139, 0.068);">
                 </div>
                 <div class="column right">
-                    <div class="text"> I am Mohammad Ali Shaik</div>
+                    <div class="text"> Mohammad Ali Shaik</div>
                     <p>Call me Ali, </p>
                     <p>Aspiring MERN Stack Developer, Aiming to start my journey as a Full-Stack Web Developer in a Tech company. Enhanced skills both in the Backend and Frontend development. Adaptive to team projects.
                     <br>
