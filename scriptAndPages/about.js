@@ -11,7 +11,7 @@ about.innerHTML = `
                 <div class="column right">
                     <div class="text"> Mohammad Ali Shaik</div>
                     <p>Call me Ali, </p>
-                    <p>Aspiring MERN Stack Developer, Aiming to start my journey as a Full-Stack Web Developer in a Tech company. Enhanced skills both in the Backend and Frontend development. Adaptive to team projects.
+                    <p>Aspiring Front-end Developer, Aiming to start my journey as a Front-end Web Developer in a Tech company. Enhanced skills in Frontend development. Adaptive to team projects.
                     <br>
                     Waiting for a chance to present myself as a Developer where someone can relay on my skills.
                     </p>
@@ -34,7 +34,7 @@ about.innerHTML = `
                     <a  href="tel:+91 8142219730">
                         <p class="iconsAboutSection"> <i class="fas fa-phone"></i> +91-8142219730</p>
                     </a>
-                    <a href="https://drive.google.com/file/d/1BwCO_XgKx1qqddEqc2IkR184mm0Wq8QO/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/19gUwI0AtSH6E8lkZ5FPbz-SSNlUypgAN/view?usp=sharing"
                         target="_blank" class="resumeToDrive">Resume</a>
                 </div>
             </div>

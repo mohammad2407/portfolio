@@ -16,7 +16,14 @@ skills.innerHTML = `
         <i class="fab fa-js-square"></i>
         <p>Advanced JS</p>
     </div>
-  
+    <div>
+        <i class="fab fa-node-js"></i>
+        <p>ExpressJs</p>
+    </div>
+    <div>
+        <i class="fab fa-node-js"></i>
+        <p>NodeJs</p>
+    </div>
     
     <div>
         <i class="fab fa-react"></i>
