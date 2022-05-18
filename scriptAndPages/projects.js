@@ -30,7 +30,7 @@ projectsSection.innerHTML = `
                             <a href="https://github.com/WasimRehmn/nykaa-clone"
                                 target="_blank"><button>
                                     Github</button></a>
-                            <a href="https://clone-nykaa.herokuapp.com/" target="_blank"><button>Demo</button></a>
+                            <a href="https://nykaa-app.netlify.app/" target="_blank"><button>Demo</button></a>
 
                         </div>
                     </div>
