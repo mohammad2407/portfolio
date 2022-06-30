@@ -9,7 +9,7 @@ projectsSection.innerHTML = `
                         <img src="./images/Nykaa.png" alt="" />
                     </div>
                     <div class="projectDescription">
-                        <p>Developed a clone of <a href="https://www.reddit.com/"
+                        <p>Developed a clone of <a href="https://nykaa-app.netlify.app/"
                                 style="color: #FFF; text-decoration: underline;" target="_blank">Nykaa</a> website.</p>
                         <br >
                         <p>Nykaa is an Indian online Beauty app, It has all the beauty care Products. Serving the best service at an affordable cost. It has various Sections, like as Login and Logout, Product Page, Home Page, Multiple Navigation bars, Cart Page, Payment Page. We completed the cloning of Nykaa with the team of 3 members including me in 6 days. </p>
